@@ -1,0 +1,4 @@
+'merge-correct', (0, 66)
+'remove_odd_indices-correct', (512, 66)
+'SmartFridge-correct', (1024, 66)
+'VendingMachine-correct', (1536, 66)
