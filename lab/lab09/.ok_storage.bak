@@ -1,0 +1,4 @@
+'buffer-correct', (0, 66)
+'scheme_read-correct', (512, 66)
+'quote-correct', (1024, 66)
+'tail replicate-correct', (1536, 66)
